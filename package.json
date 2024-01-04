@@ -1,0 +1,28 @@
+{
+    "name": "james-object-oriented-programming-svg-logo-maker",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jamesbruckner/SVG_logo_maker"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jamesbruckner/SVG_logo_maker/issues"
+    },
+    "homepage": "https://github.com/jamesbruckner/SVG_logo_maker#readme",
+    "dependencies": {
+        "inquirer": "^8.2.4"
+    },
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}
